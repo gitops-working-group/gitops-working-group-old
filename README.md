@@ -46,7 +46,7 @@ The founders of the GitOps Working Group envision the creation of a GitOps Manif
 With the announcement of the GitOps Working Group the founders would like to invite other companies to join the group and contribute to the community and the adoption of GitOps across the cloud native landscape. To get involved please join the community here on GitHub.
 
 ### Timeline
-The goal of the GitOps Working Group’s founders is to: firstly, form the group during Q4 of 2020 and secondly, to establish V1 of the GitOps Manifesto by the end of March, 2021. If you are interested in keeping abreast of any new developments, please visit follow this repository.
+The goal of the GitOps Working Group’s founders is to: firstly, form the group during Q4 of 2020 and secondly, to establish V1 of the GitOps Manifesto by the end of March, 2021. If you are interested in keeping abreast of any new developments, please visit follow this repository. The first meeting of the working group will happen on Thursday, December 10 at 5:00pm GMT with video information posted the week of the meeting. 
 
 #### Additional Information
 Documenting the GitOps principles, and supporting WG GitOps in CNCF App Delivery SIG as an OSS project.
@@ -54,3 +54,7 @@ Documenting the GitOps principles, and supporting WG GitOps in CNCF App Delivery
 Please see [GitOps WG Charter](https://docs.google.com/document/d/11EZfvB2FFI837nMmArnyv-wizsIJvc-4_xdgfoUXF4o/view)
 and [Draft Definition](https://docs.google.com/document/d/11EZfvB2FFI837nMmArnyv-wizsIJvc-4_xdgfoUXF4o/view)
 for initial details.
+
+#### Sincerely,
+
+Daniel Lizio-Katzen, Weaveworks
