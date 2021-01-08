@@ -1,3 +1,7 @@
+
+**THIS REPOSITORY IS NOW DEPRECATED. PLEASE SEE https://github.com/gitops-working-group/gitops-working-group INSTEAD.**
+
+
 # gitops-working-group
 
 ## Announcing the GitOps Working Group
